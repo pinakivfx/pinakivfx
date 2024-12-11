@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
-**pinakivfx/pinakivfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thakurakash-gg/thakurakash-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
