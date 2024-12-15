@@ -312,3 +312,11 @@
     })();
 
 })(document.documentElement);
+
+// window.addEventListener('load', function () {
+//     pannellum.viewer('panorama', {
+//         "type": "equirectangular",
+//         "panorama": "./images/portfolio/ss.jpg", // Replace with the actual path to your image
+//         "autoLoad": true
+//     });
+// });
